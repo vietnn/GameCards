@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8027312c-9f7c-4ed1-abde-d7686b3cffbc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "mau_binh_resource_png": {
+      "ver": "1.0.3",
+      "uuid": "cd434256-936e-4bc6-9b8e-81b51bc1c524",
+      "rawTextureUuid": "8027312c-9f7c-4ed1-abde-d7686b3cffbc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1854,
+      "height": 492,
+      "rawWidth": 1862,
+      "rawHeight": 497,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
