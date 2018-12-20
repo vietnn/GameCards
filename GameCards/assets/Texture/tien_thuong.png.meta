@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d31047ec-8305-4ada-87b8-73f209f0d3f5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tien_thuong": {
+      "ver": "1.0.3",
+      "uuid": "147fa9a3-8697-4ab5-92c6-1d0bf2bd1d54",
+      "rawTextureUuid": "d31047ec-8305-4ada-87b8-73f209f0d3f5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 4.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 874,
+      "height": 1137,
+      "rawWidth": 879,
+      "rawHeight": 1150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
